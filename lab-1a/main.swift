@@ -1,7 +1,7 @@
 
 import Foundation
 
-let studentName: String = "Anup Maurya"
+let studentName: String = "Harshit Yadav"
 let rollNumber: Int = 101
 
 let subject1: Int = 85
