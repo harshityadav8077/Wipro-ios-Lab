@@ -85,7 +85,7 @@ print("\nAfter Updating Marks:")
 print(marksRecord)
 
 
-if let score = marksRecord["Anup"] {
+if let score = marksRecord["Harshit"] {
     print("Dhruv's Marks:", score)
 } else {
     print("Student record not found")
